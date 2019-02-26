@@ -8,7 +8,7 @@
 
 using namespace std;
 //beim fertigen Programm die Einstellung in "Project Eigenschaften" unter C/C++, Codegenerierung die Laufzeitbibliothek von /MDd auf /MD umstellen
-
+//first commit
 #define H 800
 #define W 1000
 
